@@ -17,6 +17,9 @@ public class LerpRotate extends NNFunction {
 
     @Override
     public double doubleValue() {
-        return MathUtils.lerpDegrees(this.getArg(0).doubleValue(), this.getArg(1).doubleValue(), this.getArg(2).doubleValue());
+        return MathUtils.lerpDegrees(
+                this.getArg(0).doubleValue(),
+                this.getArg(1).doubleValue(),
+                this.getArg(2).doubleValue());
     }
 }
