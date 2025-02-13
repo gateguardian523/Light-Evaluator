@@ -1,8 +1,8 @@
 package io.github.gateguardian523.lightevaluator.functions.limit;
 
 import io.github.gateguardian523.lightevaluator.IMathValue;
-import io.github.gateguardian523.lightevaluator.MathUtils;
 import io.github.gateguardian523.lightevaluator.functions.NNFunction;
+import io.github.gateguardian523.lightevaluator.utils.MathUtils;
 
 public class Clamp extends NNFunction {
 

@@ -1,4 +1,4 @@
-package io.github.gateguardian523.lightevaluator;
+package io.github.gateguardian523.lightevaluator.utils;
 
 public class MathUtils {
 

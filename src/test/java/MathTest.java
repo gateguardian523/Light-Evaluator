@@ -1,4 +1,4 @@
-import io.github.gateguardian523.lightevaluator.MathUtils;
+import io.github.gateguardian523.lightevaluator.utils.MathUtils;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
